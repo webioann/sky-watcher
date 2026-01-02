@@ -3,7 +3,7 @@ import './WeatherApp.scss';
 
 function Details(props) {
     const data = props.data;
-
+        // console.log(data);
         let  sunRise ="";
         let  sunSet ="";
         let pressuare = "";
